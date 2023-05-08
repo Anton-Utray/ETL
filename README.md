@@ -1,5 +1,5 @@
 # ETL
- PASALO POR UN SPELL CHECKER CHICO TRILINGUE
+
  
 <p align="center">
   <img src="https://github.com/Anton-Utray/ETL/blob/main/IMAGES/pipa_agua.jpg" alt="pipa" width="800">
