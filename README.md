@@ -1,5 +1,8 @@
 # ETL
  PASALO POR UN SPELL CHECKER CHICO TRILINGUE
+ 
+ ![pipa] (https://github.com/Anton-Utray/ETL/blob/main/IMAGES/pipa_agua.jpg)
+ 
 ## Índice
 
 1. [Descripción](#descripción)
@@ -8,7 +11,7 @@
 4. [Transformación](#transformación)
 5. [Carga](#carga)
 6. [Consultas y analisis](#consultas)
-7. [Bibliographía]
+7. [Bibliographía] (#bibliographia)
 
 ## Descripción del proyecto
 
@@ -27,7 +30,7 @@ Facilisimo ¿verdad? no tan rapido...para calentarnos un poco la cabeza, necesit
 
 ## Contexto y Objetivo
 
-*Contexto*
+**Contexto**
 
 La Coalición Tricolor es una red de agentes de cambio en la Ciudad de México. Están preprando un proyecto de captura de agua para comunidades que carecen de este liquido. 
 
@@ -68,6 +71,8 @@ Solo nos faltaría encontrar la ultíma pieza del puzzle: los indices de desarro
 ## Transformación
 
 ## Carga
+
+![Diagrama](https://github.com/Anton-Utray/ETL/blob/main/IMAGES/Diagrama%20relacional%20SQL.JPG)
 
 ## Consultas y Analisis 
 
