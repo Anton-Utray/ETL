@@ -44,9 +44,9 @@ Nuestro objetivo es recopilar datos de 3 fuentes distintas que nos ayuden a ente
 
 Cada una de las fuentes nos ayudará a despejar las siguientes dudas: 
 
-¿Como se divide el acceso a agua por alcadías? [^2]
-¿Como se compara al indice de desarollo de cada sitio?
-¿En partes de la ciudad ya se estan llevando a cabo proyectos de este tipo?
+- ¿Como se divide el acceso a agua por alcadías? [^2]
+- ¿Como se compara al indice de desarollo de cada sitio?
+- ¿En partes de la ciudad ya se estan llevando a cabo proyectos de este tipo?
 
 ## Extración 🎣 
 
@@ -60,7 +60,7 @@ Seguimos indagando y llegamos al portal de datos abiertos del gobierno de la CDM
 
 <p align="center">¡A huevo! 🍳</p>
 
-Solo nos faltaría encontrar la ultíma pieza del puzzle: los indices de desarrollo por alcaldía. La Secretaría de Inclusión y Bienestar Social nos proporciona este analisis, en formato descargable. 
+Solo nos faltaría encontrar la ultíma pieza del puzzle: los indices de desarrollo por alcaldía. La Secretaría de Inclusión y Bienestar Social nos proporciona este analisis, en formato descargable. [^5]
 
 <p align="center">¡Con permiso! 💅 </p>
 
