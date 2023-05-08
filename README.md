@@ -1,7 +1,7 @@
 # ETL
  PASALO POR UN SPELL CHECKER CHICO TRILINGUE
  
- ![pipa] (https://github.com/Anton-Utray/ETL/blob/main/IMAGES/pipa_agua.jpg)
+ ![pipa](https://github.com/Anton-Utray/ETL/blob/main/IMAGES/pipa_agua.jpg)
  
 ## Índice
 
@@ -11,7 +11,7 @@
 4. [Transformación](#transformación)
 5. [Carga](#carga)
 6. [Consultas y analisis](#consultas)
-7. [Bibliographía] (#bibliographia)
+7. [Bibliographía](#bibliographia)
 
 ## Descripción del proyecto
 
