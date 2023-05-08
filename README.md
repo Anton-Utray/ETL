@@ -1,7 +1,9 @@
 # ETL
  PASALO POR UN SPELL CHECKER CHICO TRILINGUE
  
- ![pipa](https://github.com/Anton-Utray/ETL/blob/main/IMAGES/pipa_agua.jpg)
+<p align="center">
+  <img src="https://github.com/Anton-Utray/ETL/blob/main/IMAGES/pipa_agua.jpg" alt="pipa" width="800">
+</p>
  
 ## Índice
 
@@ -32,6 +34,10 @@ Facilisimo ¿verdad? no tan rapido...para calentarnos un poco la cabeza, necesit
 
 **Contexto**
 
+<p align="center">
+ <img src="https://github.com/Anton-Utray/ETL/blob/main/IMAGES/CT_Logo_Esp.png" alt="pipa" width="300">
+</p>
+
 La Coalición Tricolor es una red de agentes de cambio en la Ciudad de México. Están preprando un proyecto de captura de agua para comunidades que carecen de este liquido. 
 
 Si quieres saber mas sobre el proyecto, tienes el link en la bibliographía 👇 
@@ -45,10 +51,8 @@ Nuestro objetivo es recopilar datos de 3 fuentes distintas que nos ayuden a ente
 Cada una de las fuentes nos ayudará a despejar las siguientes dudas: 
 
 ¿Como se divide el acceso a agua por alcadías? [^1]
-    
-    
-    ¿Como se compara al indice de desarollo de cada sitio?
-     ¿En partes de la ciudad ya se estan llevando a cabo proyectos de este tipo?
+¿Como se compara al indice de desarollo de cada sitio?
+¿En partes de la ciudad ya se estan llevando a cabo proyectos de este tipo?
 
 ## Extración
 
@@ -72,7 +76,10 @@ Solo nos faltaría encontrar la ultíma pieza del puzzle: los indices de desarro
 
 ## Carga
 
-![Diagrama](https://github.com/Anton-Utray/ETL/blob/main/IMAGES/Diagrama%20relacional%20SQL.JPG)
+<p align="center">
+  <img src="https://github.com/Anton-Utray/ETL/blob/main/IMAGES/Diagrama%20relacional%20SQL.JPG" alt="Diagrama" width="500">
+</p>
+
 
 ## Consultas y Analisis 
 
