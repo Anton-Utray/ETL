@@ -41,7 +41,7 @@ Nuestro objetivo es recopilar datos de 3 fuentes distintas que nos ayuden a ente
 
 Cada una de las fuentes nos ayudará a despejar las siguientes dudas: 
 
-¿Como se divide el acceso a agua por alcadías?[^1]
+¿Como se divide el acceso a agua por alcadías? [^1]
     
     
     ¿Como se compara al indice de desarollo de cada sitio?
@@ -80,4 +80,4 @@ https://www.evalua.cdmx.gob.mx/principales-atribuciones/medicion-del-indice-de-d
 
 
 footnotes: 
-[^1] ¿Alcadías? ¿Dentro de una ciudad? Suena raro pero si. Aunque se conoce como "Ciudad de México" en verdad es un estado federado con un gobernador a su cabeza, no un alcalde. Dentro de la Ciudad de México, este estado federado se divide en 16 alcadías.
+[^1]: ¿Alcadías? ¿Dentro de una ciudad? Suena raro pero si. Aunque se conoce como "Ciudad de México" en verdad es un estado federado con un gobernador a su cabeza, no un alcalde. Dentro de la Ciudad de México, este estado federado se divide en 16 alcadías.
