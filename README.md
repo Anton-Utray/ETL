@@ -153,7 +153,8 @@ ORDER BY poblacion_no DESC;
  ```
 
 ![query4](https://github.com/Anton-Utray/ETL/blob/main/IMAGES/query4.JPG)
-
+</details>
+	
 <details>
 <summary>Top 5 alcaldías mas vulnerables con IDS </summary>
 <br>
