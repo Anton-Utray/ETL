@@ -1,6 +1,5 @@
-# ETL - Acceso al agua para los habitantes de la Ciudad de México
+# ETL 
 
- 
 <p align="center">
   <img src="https://github.com/Anton-Utray/ETL/blob/main/IMAGES/pipa_agua.jpg" alt="pipa" width="800">
 </p>
@@ -15,16 +14,14 @@
 
 ## Descripción del proyecto ✍️
 
+Tercer proyecto realizado dentro del Bootcamp en Data Analytics de IronHack. 
+
 ### Restricciones ⛔ 
 
-En el marco del boocamp de Data Analytics de IronHack, para este proyecto tendremos que realizar una ETL: 
-
-##### Extract 👨‍💻 Transform 🧞 Load 📲
-
-Facilisimo ¿verdad? no tan rapido...para calentarnos un poco la cabeza, necesitamos cumplir unos minimos indispensables: 
+ETL...Facilisimo ¿verdad? no tan rapido...para calentarnos un poco la cabeza, necesitamos cumplir unos minimos indispensables: 
 
 - La información tiene que venir de 3 fuentes distintas(urls)
-- Tenemos que usar al menos 2 métodos distintos de extracción de datos (csv, api,   rss, web scrapping, base de datos)
+- Tenemos que usar al menos 2 métodos distintos de extracción de datos (csv, api,  rss, web scrapping, base de datos)
 
 ### Contexto 🧭
 
@@ -46,7 +43,7 @@ Cada una de las fuentes nos ayudará a despejar las siguientes dudas:
 
 - ¿Como se divide el acceso a agua por alcadías? [^2]
 - ¿Como se compara al indice de desarollo de cada sitio?
-- ¿En partes de la ciudad ya se estan llevando a cabo proyectos de este tipo?
+- ¿En que partes de la ciudad ya se estan llevando a cabo proyectos de este tipo?
 
 ## Extración 🎣 
 
@@ -56,7 +53,7 @@ En el encontramos una base de datos que contiene datos de acceso a agua, dividid
 
 <p align="center">¡Padrisimo! 🌟</p>
 
-Seguimos indagando y llegamos al portal de datos abiertos del gobierno de la CDMX. Filtrando sus bases de datos con la palabra clave "agua" encontramos reocpilaciones de todos los proyectos de instalaciones de sistemas de captura de agua llevados a cabo en la CDMX, que además dispone de API. [^4]
+Seguimos indagando y llegamos al portal de datos abiertos del gobierno de la CDMX. Filtrando sus bases de datos con la palabra clave "agua" encontramos recopilaciones de todos los proyectos de instalaciones de sistemas de captura de agua llevados a cabo en la CDMX, que además dispone de API. [^4]
 
 <p align="center">¡A huevo! 🍳</p>
 
@@ -66,9 +63,9 @@ Solo nos faltaría encontrar la ultíma pieza del puzzle: los indices de desarro
 
 ## Transformación  🧬 
 
-El primer archivo que corresponde a los datos de acceso a agua por alcaldia tenia una estructura un poco confusa ya que tenia filas que correspondian al subtotal de otras filas de la misma columna, otras filas que eran subtotales de valores de otras columnas y así. 
+El primer archivo que corresponde a los datos de acceso a agua por alcaldia tenia una estructura un poco confusa ya que tenia filas que correspondian al subtotal de otras filas de la misma columna, otras filas que eran subtotales de valores de otras columnas y así consecutivamente.
 
-Fuimos descartando todas las filas dentro de la tabla que hiciesen referencia a aggregaciones de valores de otras columnas. Para dejar el archivo lo mas simple posible y que no sesgue nuestro analisis. 
+Fuimos descartando todas las filas dentro de la tabla que hiciesen referencia a aggregaciones de valores de otras columnas. Para dejar el archivo lo mas limpio posible y que no sesguase nuestro analisis futuro.
 
 Terminamos por descartar las columnas que no nos aportan información de importancia, en este caso: disponibilidad de drenaje y numero de viviendas (optamos mejor por el conteo por personas)
 
