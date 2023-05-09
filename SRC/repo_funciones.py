@@ -33,6 +33,15 @@ def get_unique_dtypes(df, col):
     return unique_dtypes
 
 
+a= ([ 1, 1, 1, 2, 1, 1 ])
+
+def findUnique(x):
+    res=[]
+    for num in x:
+        if x.count(num) == 1:
+            res.append(num)
+            return res
+
 #esta checalasgg
 
 def time_of_day(hour): # funcion para agrupar y asi reducir la cantidad de horas del dia en periodos preestablecidos
